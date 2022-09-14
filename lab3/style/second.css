@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+table {
+    width: 100%;
+    height: 100%;
+}
+td {
+    width:49%;
+    height: 100%;
+}
+
+td {
+    vertical-align: top;
+    text-align: left;
+}
+
+#sec1 {
+    background-color: #29d8b1;
+}
+
+#sec2 {
+    background-color: #aae0d5;
+}

@@ -1,0 +1,1 @@
+var child = window.open('helper.html', 'child', 'width=300,height=300');

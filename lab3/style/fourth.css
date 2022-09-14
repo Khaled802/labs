@@ -1,0 +1,67 @@
+body {
+    background-color: lightblue;
+}
+table {
+    text-align: center;
+    display: block;
+}
+pre {
+    display: block;
+}
+
+
+.main {
+    margin: auto;
+    background-color: aliceblue;
+    width: 500;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    list-style: none;
+    font-size: 30;
+    padding: 10px;
+}
+
+span {
+    opacity: 50%;
+}
+
+span:hover {
+    text-decoration: underline;
+    opacity: 100%;
+    cursor: pointer;
+}
+
+span:active {
+    color: darkmagenta;
+}
+
+#forgetpassword {
+    background-color: darkgray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.submit:hover {
+    cursor: pointer;
+}
+
+.login {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 50%s;
+}
+
+
+.submit {
+    padding: 10px 30px;
+    background-color: lightblue;
+    border: 0;
+}

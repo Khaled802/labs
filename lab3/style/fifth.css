@@ -1,0 +1,9 @@
+body {
+   
+    background-image: url("../images/bg2.png");
+    text-align: center;
+}
+
+table {
+    display: inline-block;
+}
